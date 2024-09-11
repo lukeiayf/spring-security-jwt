@@ -1,5 +1,6 @@
-package com.lucassilva.spring_security_jwt;
+package com.lucassilva.spring_security_jwt.repository;
 
+import com.lucassilva.spring_security_jwt.model.User;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

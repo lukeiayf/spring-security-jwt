@@ -1,4 +1,4 @@
-package com.lucassilva.spring_security_jwt;
+package com.lucassilva.spring_security_jwt.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.relational.core.mapping.Table;

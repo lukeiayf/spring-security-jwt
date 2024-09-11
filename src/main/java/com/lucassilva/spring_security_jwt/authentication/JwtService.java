@@ -1,4 +1,4 @@
-package com.lucassilva.spring_security_jwt;
+package com.lucassilva.spring_security_jwt.authentication;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
